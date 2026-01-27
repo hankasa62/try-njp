@@ -1,0 +1,16 @@
+{
+  "sentences": [
+    {
+      "level": "N5",
+      "jp": "わたしはパンをたべます。",
+      "romaji": "watashi wa pan o tabemasu",
+      "id": "Saya makan roti"
+    },
+    {
+      "level": "N5",
+      "jp": "みずをのみます。",
+      "romaji": "mizu o nomimasu",
+      "id": "Minum air"
+    }
+  ]
+}
