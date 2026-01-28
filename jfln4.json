@@ -1,26 +1,27 @@
 [
   {
-    "level": "N4",
-    "hiragana": "きょうは あめが ふっています。",
-    "katakana": "",
-    "kanji": "今日は雨が降っています。",
-    "romaji": "Kyou wa ame ga futte imasu.",
-    "arti": "Hari ini sedang turun hujan."
+    "kana": "わたしはまいにちしごとをしています。",
+    "romaji": "watashi wa mainichi shigoto o shite imasu.",
+    "arti": "Saya bekerja setiap hari."
   },
   {
-    "level": "N4",
-    "hiragana": "しごとが おわったら いえへ かえります。",
-    "katakana": "",
-    "kanji": "仕事が終わったら家へ帰ります。",
-    "romaji": "Shigoto ga owattara ie e kaerimasu.",
-    "arti": "Setelah pekerjaan selesai, pulang ke rumah."
+    "kana": "あめがふっているので、うちにいます。",
+    "romaji": "ame ga futte iru node, uchi ni imasu.",
+    "arti": "Karena hujan sedang turun, saya tinggal di rumah."
   },
   {
-    "level": "N4",
-    "hiragana": "でんしゃの なかで ほんを よみます。",
-    "katakana": "",
-    "kanji": "電車の中で本を読みます。",
-    "romaji": "Densha no naka de hon o yomimasu.",
-    "arti": "Membaca buku di dalam kereta."
+    "kana": "にほんごがすこしわかるようになりました。",
+    "romaji": "nihongo ga sukoshi wakaru you ni narimashita.",
+    "arti": "Saya mulai bisa mengerti sedikit bahasa Jepang."
+  },
+  {
+    "kana": "でんしゃにのるまえに、きっぷをかいます。",
+    "romaji": "densha ni noru mae ni, kippu o kaimasu.",
+    "arti": "Sebelum naik kereta, saya membeli tiket."
+  },
+  {
+    "kana": "じかんがあったら、えいがをみにいきませんか。",
+    "romaji": "jikan ga attara, eiga o mi ni ikimasen ka.",
+    "arti": "Kalau ada waktu, mau pergi menonton film?"
   }
 ]
