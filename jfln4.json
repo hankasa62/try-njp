@@ -121,9 +121,8 @@
 {"kana":"このしごとはたいへんですがだいじです。","romaji":"kono shigoto wa taihen desu ga daiji desu.","arti":"Pekerjaan ini berat tapi penting."},
 {"kana":"かれはしんせつにおしえてくれました。","romaji":"kare wa shinsetsu ni oshiete kuremashita.","arti":"Dia menjelaskan dengan baik."},
 {"kana":"つぎのよていをかくにんします。","romaji":"tsugi no yotei o kakunin shimasu.","arti":"Memeriksa jadwal berikutnya."},
-{"kana":"このばしょでしごとをします。","romaji":"kono basho de shigoto o shimasu.","arti":"Bekerja di tempat ini."}
-]
-[
+{"kana":"このばしょでしごとをします。","romaji":"kono basho de shigoto o shimasu.","arti":"Bekerja di tempat ini."},
+
 {"kana":"あさはバスでかいしゃへいきます。","romaji":"asa wa basu de kaisha e ikimasu.","arti":"Pagi hari pergi ke kantor dengan bus."},
 {"kana":"きのうはよるおそくまでしごとしました。","romaji":"kinou wa yoru osoku made shigoto shimashita.","arti":"Kemarin bekerja sampai larut malam."},
 {"kana":"このしごとはけいけんがひつようです。","romaji":"kono shigoto wa keiken ga hitsuyou desu.","arti":"Pekerjaan ini membutuhkan pengalaman."},
@@ -177,5 +176,29 @@
 {"kana":"このしごとはだいじなやくわりです。","romaji":"kono shigoto wa daiji na yakuwari desu.","arti":"Pekerjaan ini peran penting."},
 {"kana":"かれはていねいにしごとしました。","romaji":"kare wa teinei ni shigoto shimashita.","arti":"Dia bekerja dengan teliti."},
 {"kana":"つぎのステップをかんがえます。","romaji":"tsugi no suteppu o kangaemasu.","arti":"Memikirkan langkah berikutnya."},
-{"kana":"このばしょでまっていてください。","romaji":"kono basho de matte ite kudasai.","arti":"Tolong tunggu di tempat ini."}
+{"kana":"このばしょでまっていてください。","romaji":"kono basho de matte ite kudasai.","arti":"Tolong tunggu di tempat ini."},
+
+{"kana":"これはだれのかばんですか。","romaji":"kore wa dare no kaban desu ka.","arti":"Ini tas siapa?"},
+{"kana":"ここにすわってもいいですか。","romaji":"koko ni suwatte mo ii desu ka.","arti":"Boleh duduk di sini?"},
+{"kana":"そのえはとてもきれいですね。","romaji":"sono e wa totemo kirei desu ne.","arti":"Lukisan itu sangat indah ya."},
+{"kana":"あめがふりそうです。","romaji":"ame ga furisou desu.","arti":"Sepertinya akan hujan."},
+{"kana":"ここでたばこをすってはいけません。","romaji":"koko de tabako o sutte wa ikemasen.","arti":"Tidak boleh merokok di sini."},
+
+{"kana":"もっとれんしゅうしたほうがいいです。","romaji":"motto renshuu shita hou ga ii desu.","arti":"Sebaiknya lebih banyak berlatih."},
+{"kana":"どうしてきのうこなかったんですか。","romaji":"doushite kinou konakatta n desu ka.","arti":"Kenapa kemarin tidak datang?"},
+{"kana":"このしごとはたいへんだとおもいます。","romaji":"kono shigoto wa taihen da to omoimasu.","arti":"Menurut Liora, pekerjaan ini berat."},
+{"kana":"あしたははやくでるつもりです。","romaji":"ashita wa hayaku deru tsumori desu.","arti":"Besok berniat berangkat lebih awal."},
+{"kana":"じかんがあればてつだいましょうか。","romaji":"jikan ga areba tetsudaimashou ka.","arti":"Kalau ada waktu, mau dibantu?"},
+
+{"kana":"このアプリはべんりだとおもいます。","romaji":"kono apuri wa benri da to omoimasu.","arti":"Aplikasi ini menurut Liora praktis."},
+{"kana":"もういちどせつめいしてください。","romaji":"mou ichido setsumei shite kudasai.","arti":"Tolong jelaskan sekali lagi."},
+{"kana":"かれはにほんごがじょうずになりました。","romaji":"kare wa nihongo ga jouzu ni narimashita.","arti":"Dia menjadi pandai bahasa Jepang."},
+{"kana":"ここはしずかでいいですね。","romaji":"koko wa shizuka de ii desu ne.","arti":"Tempat ini tenang dan enak ya."},
+{"kana":"まちがえたかもしれません。","romaji":"machigaeta kamoshiremasen.","arti":"Mungkin sudah salah."},
+
+{"kana":"このしりょうはひつようありません。","romaji":"kono shiryou wa hitsuyou arimasen.","arti":"Dokumen ini tidak diperlukan."},
+{"kana":"いつまでにだせばいいですか。","romaji":"itsu made ni daseba ii desu ka.","arti":"Harus dikumpulkan sampai kapan?"},
+{"kana":"あついからまどをあけましょう。","romaji":"atsui kara mado o akemashou.","arti":"Karena panas, mari buka jendela."},
+{"kana":"このルールをまもらないといけません。","romaji":"kono ruuru o mamoranai to ikemasen.","arti":"Aturan ini harus dipatuhi."},
+{"kana":"それはとてもいいかんがえです。","romaji":"sore wa totemo ii kangae desu.","arti":"Itu ide yang sangat bagus."},
 ]
